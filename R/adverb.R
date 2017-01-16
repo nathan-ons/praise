@@ -21,6 +21,7 @@ adverb_manner <- c(
   "elegantly",
   "enormously",
   "enthusiastically",
+  "encouragement",
   "faithfully",
   "fast",
   "fondly",
