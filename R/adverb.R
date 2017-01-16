@@ -12,6 +12,7 @@ adverb_manner <- c(
   "clearly",
   "correctly",
   "courageously",
+  "dangerously",
   "daringly",
   "deliberately",
   "doubtfully",
